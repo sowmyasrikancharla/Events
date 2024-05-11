@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.item-con {
+  margin: 20px;
+  list-style-type: none;
+}
+.image-set {
+  height: 200px;
+  width: 300px;
+}
+.head1 {
+  color: #f8fafc;
+  font-family: cursive;
+}
+.but {
+  background-color: #475569;
+  border-style: none;
+}
